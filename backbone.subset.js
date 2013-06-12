@@ -1,3 +1,12 @@
+/*
+  Forked copy from https://github.com/quri/Backbone.Subset
+  Make changes in that repo (for tracking purposes), and copy into pocket_change
+
+  PRs that we merged that upstream hasn't:
+    https://github.com/masylum/Backbone.Subset/pull/10
+    https://github.com/masylum/Backbone.Subset/pull/11
+*/
+
 /**
  * @class  Backbone.Subset
  * @name   Backbone Subset collections
